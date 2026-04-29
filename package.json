@@ -1,0 +1,10 @@
+{
+  "name": "newsletter-business-launch-kit",
+  "version": "1.0.0",
+  "description": "ClawHub skill: newsletter-business-launch-kit",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "email"
+  }
+}
